@@ -19,3 +19,18 @@
 * Rectangles
 * Circles
 * Text on Images
+### learning opencv 5
+* Warp Perspective
+### learning opencv 6
+* Joining Images
+* __Image Stacking__
+### learning opencv 7
+* Color Detection
+* Introducing Trackbars
+### learning opencv 8
+* Contouring
+* Shape Detection
+* Bounding Boxes
+# Learning Resources
+[Link to YouTube video](https://youtu.be/WQeoO7MI0Bs)<br>
+[Link to GitHub profile](https://github.com/murtazahassan)
