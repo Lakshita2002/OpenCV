@@ -31,6 +31,11 @@
 * Contouring
 * Shape Detection
 * Bounding Boxes
+### learning opencv 9
+* All about Haar Cascades
+## Application based projects
+### 1. Virtual Paint 
+
 # Learning Resources
 [Link to YouTube video](https://youtu.be/WQeoO7MI0Bs)<br>
 [Link to GitHub profile](https://github.com/murtazahassan)
