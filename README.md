@@ -35,6 +35,7 @@
 * All about Haar Cascades
 ## Application based projects
 ### 1. Virtual Paint 
+### 2. Face Detection using Haar Cascade classifier
 
 # Learning Resources
 [Link to YouTube video](https://youtu.be/WQeoO7MI0Bs)<br>
